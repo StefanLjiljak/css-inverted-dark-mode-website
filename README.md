@@ -1,6 +1,8 @@
-# Full Dark Mode CSS property website
+# CSS inverted dark mode website
 
-- May not still properly work on Firefox browser
+- https://stefanljiljak.github.io/css-inverted-dark-mode-website/
+
+* _May not still properly work on Firefox browser_
 
 Copyright 2020 Stefan Ljiljak
 
